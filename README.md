@@ -1,1 +1,1 @@
-# Trabajo-Practico-Python-Digitalers
+Trabajo Practico, La ruina del apostador
